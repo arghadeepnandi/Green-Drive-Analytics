@@ -294,15 +294,7 @@ Visual representation of most popular models by market share:
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! If you'd like to improve this dashboard:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
 
 ### Contribution Ideas:
 - Add new visualizations or KPIs
@@ -315,8 +307,6 @@ Contributions are welcome! If you'd like to improve this dashboard:
 
 ## 📧 Contact
 
-**Your Name**
-
 - GitHub: https://github.com/arghadeepnandi
 - LinkedIn: https://www.linkedin.com/in/arghadeep-nandi-159523252/
 - Email: arghadeepnandi93@gmail.com
@@ -324,7 +314,6 @@ Contributions are welcome! If you'd like to improve this dashboard:
 **Project Link:** https://github.com/arghadeepnandi/Green-Drive-Analytics
 
 ---
-
 
 ## 🙏 Acknowledgments
 
