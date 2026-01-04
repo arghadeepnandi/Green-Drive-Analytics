@@ -316,20 +316,14 @@ Contributions are welcome! If you'd like to improve this dashboard:
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- GitHub: https://github.com/arghadeepnandi
+- LinkedIn: https://www.linkedin.com/in/arghadeep-nandi-159523252/
+- Email: arghadeepnandi93@gmail.com
 
-**Project Link:** [https://github.com/yourusername/Green-Drive-Analytics](https://github.com/yourusername/Green-Drive-Analytics)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Project Link:** https://github.com/arghadeepnandi/Green-Drive-Analytics
 
 ---
+
 
 ## 🙏 Acknowledgments
 
