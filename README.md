@@ -274,7 +274,7 @@ Visual representation of most popular models by market share:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Green-Drive-Analytics.git
+   git clone https://github.com/arghadeepnandi/Green-Drive-Analytics
    cd Green-Drive-Analytics
    ```
 
