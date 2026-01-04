@@ -4,7 +4,8 @@
 
 **Green Drive Analytics** is a dynamic, interactive Power BI dashboard designed to explore and analyze the electric vehicle (EV) landscape across the United States. This comprehensive data visualization tool focuses on market trends, manufacturer performance, geographical distribution, consumer preferences, and policy impact—providing actionable insights for stakeholders in the rapidly evolving EV industry.
 
----
+
+
 
 ## 🎯 Purpose
 
@@ -198,7 +199,7 @@ Visual representation of most popular models by market share:
 ## 📸 Screenshots / Demo
 
 ### Dashboard Preview
-![Green Drive Analytics Dashboard](https://github.com/yourusername/Green-Drive-Analytics/blob/main/dashboard_preview.png)
+---<img width="1428" height="802" alt="Screenshot 2026-01-04 190126" src="https://github.com/user-attachments/assets/61fe809a-8acb-45e9-995b-2a0127db094a" />
 
 *Interactive dashboard showing comprehensive EV market analysis with KPIs, geographical distribution, manufacturer rankings, and model popularity metrics*
 
